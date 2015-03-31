@@ -126,6 +126,8 @@ For a list of free machine learning books available for download, go [here](http
 * [Stan](http://mc-stan.org/) - A probabilistic programming language implementing full Bayesian statistical inference with Hamiltonian Monte Carlo sampling
 * [BanditLib](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
 * [Timbl](http://ilk.uvt.nl/timbl) - A software package/C++ library implementing several memory-based learning algorithms, among which IB1-IG, an implementation of k-nearest neighbor classification, and IGTree, a decision-tree approximation of IB1-IG. Commonly used for NLP.
+* [MultiBoost](http://www.multiboost.org/) - A multi-class/multi-label package for boosting algorithms. It implements essentially AdaBoost.MH along with several multi-class weak-learning algorithms and cascades (like the Viola-Jones cascade). The strong/weak classifiers are decoupled so new implementations in one of them will benefit from the algorithms of the other. 
+
 
 <a name="cpp-nlp" />
 #### Natural Language Processing
